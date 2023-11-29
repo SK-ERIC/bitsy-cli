@@ -1,12 +1,19 @@
 # Changelog
 
 
+## [v0.0.3](https://github.com/SK-ERIC/bitsy-cli/compare/v0.0.2...v0.0.3) (2023-11-29)
+
+### &nbsp;&nbsp;&nbsp;❤️ Contributors
+
+
+[SK-ERIC](mailto:graceful.sk0@gmail.com)
+
 ## [v0.0.2](https://github.com/SK-ERIC/bitsy-cli/compare/v0.0.1...v0.0.2) (2023-11-29)
 
 ### &nbsp;&nbsp;&nbsp;❤️ Contributors
 
 
-[shikang](mailto:shikang@cloudcsp.com)
+[SK-ERIC](mailto:graceful.sk0@gmail.com)
 
 ## [v0.0.1](https://github.com/SK-ERIC/bitsy-cli/compare/...v0.0.1) (23-11-29)
 
